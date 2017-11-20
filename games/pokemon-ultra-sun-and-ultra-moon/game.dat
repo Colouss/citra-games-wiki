@@ -1,0 +1,19 @@
+title = "Pokémon Ultra Sun and Ultra Moon"
+description = "are role-playing video games developed by Game Freak, published by The Pokémon Company, and distributed by Nintendo for Nintendo 3DS. The titles are enhanced versions of Pokémon Sun and Moon with a modified storyline."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "00040000001B5100"
+region = "usa"
+release_date = "2017-11-17"
+
+[[testcases]]
+title = "00040000001B5100"
+compatibility = "2"
+date = "2017-11-20"
+version = "HEAD-de0af83"
+cpu = "Intel Core i3-2120CPU"
+gpu = "GeForce 210"
+os = "Windows 7 Version 6.1.7601"
+author = "Colouss"
